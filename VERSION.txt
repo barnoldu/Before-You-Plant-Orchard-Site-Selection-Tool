@@ -1,0 +1,5 @@
+Before You Plant — Kentucky Fruit Site Planner
+Export: November 11, 2026
+Published version: 7
+Source commit: f70c5ae70bbcebb995822821527686003fae0936
+Includes corrected augered drainage-test hole caption.
